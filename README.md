@@ -1,8 +1,9 @@
 # Geodesic Partners
 
-Free practice and sourced guides for quant finance interviews, coding interviews, MBA admissions and Oxford and Cambridge STEM entry.
+Independent site and advisory for quantitative finance careers, MBA admissions and Oxbridge STEM entry. Free practice questions and sourced guides for quant finance interviews, coding interviews, MBA admissions and Oxford and Cambridge STEM entry.
 
 - Website: https://geodesicpartners.co.uk
+- YouTube: https://www.youtube.com/@GeodesicPartners (short worked problems)
 - [Quant interview questions](https://github.com/geodesic-partners/quant-interview-questions)
 - [Coding interview patterns](https://github.com/geodesic-partners/coding-interview-patterns)
 - [ML interview problems in NumPy](https://github.com/geodesic-partners/ml-interview-problems)
