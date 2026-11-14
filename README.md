@@ -1,8 +1,8 @@
-# Geodesic Partners
+# Academic Quant
 
 Independent site and advisory for quantitative finance careers, MBA admissions and Oxbridge STEM entry. Free practice questions and sourced guides for quant finance interviews, coding interviews, MBA admissions and Oxford and Cambridge STEM entry.
 
-- Website: https://geodesicpartners.co.uk
+- Website: https://academicquant.co.uk
 - Mastodon: https://mathstodon.xyz/@geodesicpartners
 - TikTok: https://www.tiktok.com/@geodesicpartners
 - Threads: https://www.threads.com/@geodesicpartners
